@@ -1,4 +1,4 @@
-# Unified Text + Image Generator (Prototype)
+# Unified Text + Image Generator
 
 A small prototype that accepts a single prompt and returns both generated text and an image. It uses a FastAPI backend that orchestrates text and image generators and a Streamlit frontend for a quick interactive UI.
 
